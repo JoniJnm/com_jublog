@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<fields addfieldpath="/administrator/components/com_jublog/elements">
+		<fieldset name="global" label="COM_JUBLOG_LABEL_GLOBAL">
+			<field name="catid_blogs" type="category" extension="com_content" label="COM_JUBLOG_CATID_BLOGS_T" description="COM_JUBLOG_CATID_BLOGS_D" />
+			<field name="catid_pp" type="category" extension="com_content" label="COM_JUBLOG_CATID_PP_T" description="COM_JUBLOG_CATID_PP_D" />
+		</fieldset>
+	</fields>
+</config>

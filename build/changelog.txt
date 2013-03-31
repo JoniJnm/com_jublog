@@ -1,0 +1,13 @@
+Changelog of JUBlog
+
+31 Mar 2013 - v0.3.1
+
+# Fixed bug with other editors (thanks Stephen Shorter)
+
+10 Mar 2013 - v0.3
+
+^ Supports Joomla 3.0
+
+15 Sep 2012 - v0.2
+
+# Fixed en-GB language (thanks markv)
